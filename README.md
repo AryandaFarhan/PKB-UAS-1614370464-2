@@ -2,5 +2,4 @@
 
 # SOAL KEDUA
 
-* a)  
 
